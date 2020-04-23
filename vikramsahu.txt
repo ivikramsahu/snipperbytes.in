@@ -10,9 +10,9 @@ I have sound knowledge of #rabbitmq,#elasticsearch,#ansible,#jenkins,#git
 Currently, #golang is my favourite among all other i mentioned earlier and few days back i have started learning #python 🐍. 
 In free time I spend time on HackerRank or learning new technology.</p>  
 <h4>Profiles</h4> 
-Let's connect on <a href="https://www.linkedin.com/in/vikram-sahu-6a01987b/"> LinkedIn</a>.
+Let's connect on <a href="https://www.linkedin.com/in/snipperbytes/"> LinkedIn</a>.
 Checkout/follow me on <a href="https://twitter.com/vikramsahu_"> Twitter</a>.
-Let's be friend on <a href="https://www.facebook.com/imvikramsahu"> Facebook</a>.
+Let's be friend on <a href="https://www.facebook.com/snipperbytes"> Facebook</a>.
 <h4>Projects</h4><a href="https://github.com/vikram-sahu/"> Coming Soon.. </a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <h3> Good Bye !! </h3>
 You are always welcomed with your doubt/queries I will try my best 😀<!-- slightdelayhere-->, feel free to send me an email on <!-- longlonglongcomment --><a href="snipperbytes@gmail.com">snipperbytes@gmail.com</a>.
