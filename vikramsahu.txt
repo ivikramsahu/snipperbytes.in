@@ -11,7 +11,7 @@ Currently, #golang is my favourite among all other i mentioned earlier.
 In free time I spend time on HackerRank or learning new technology.</p>  
 <h4>Profiles</h4> 
 Let's connect on <a href="https://www.linkedin.com/in/snipperbytes/"> LinkedIn</a>.
-Checkout/follow me on <a href="https://twitter.com/snipperbytes"> Twitter</a>.
+Checkout/follow me on <a href="https://twitter.com/snipperbytes"> Twitter </a>.
 Let's be friend on <a href="https://www.facebook.com/snipperbytes"> Facebook</a>.
 <h4>Projects</h4><a href="https://github.com/snipperbytes/"> Coming Soon.. </a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <h3> Good Bye !! </h3>
