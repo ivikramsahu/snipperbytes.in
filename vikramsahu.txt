@@ -4,7 +4,8 @@ My favorite code quote, "<span id="k">Accept the unexpected while Learning → I
 
 <h4> Who am I? </h4>
 Hey! This is Vikram Sahu🦉. <p>A Senior Software Engineer & DevRel Guy 🥑 @ <a href="https://pepipost.com/">Pepipost</a>
-I have started my programming with #java. Later, got my expertise in #php 🐘, #perl🐪.
+JAVA was the first language I started, I call it has #OOPs begineer. 
+My first company gave me chance to work on #php 🐘, #perl🐪.
 Few technologies I have been working regularly : #mysql , #redis 
 I have sound knowledge of #rabbitmq,#elasticsearch,#ansible,#jenkins,#git 
 Currently, #golang is my favourite among all other i mentioned earlier.
